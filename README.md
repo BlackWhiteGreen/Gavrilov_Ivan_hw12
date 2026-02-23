@@ -19,4 +19,3 @@
 Для тестирования и демонстрации работы скрипта использован файл захвата трафика из статьи:
 - **Название:** [2026-02-03 (TUESDAY): GULOADER FOR AGENTTESLA STYLE MALWARE WITH FTP DATA EXFILTRATION](https://www.malware-traffic-analysis.net/2026/02/03/index.html)
 - **Ресурс:** [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/)
-- 
